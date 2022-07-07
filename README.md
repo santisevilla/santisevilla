@@ -1,5 +1,5 @@
-## Hola 👋
-<h1>Mi nombre es Santiago Sevilla</h1>
+<h1>Hola 👋</h1>
+<h2>Mi nombre es Santiago Sevilla</h2>
 <h3>Soy una persona apasionada por el mundo de la programación, me gusta mucho poder crear soluciones y resolver problemas, siempre estoy intentando aprender algo nuevo, o perfeccionar mis habilidades.</h3>
 
 - Actualmente estoy aprendiendo **Nodejs Expressjs**
