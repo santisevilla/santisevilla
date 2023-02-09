@@ -2,7 +2,9 @@
 <h2>Mi nombre es Santiago Sevilla</h2>
 <h3>Soy una persona apasionada por el mundo de la programación, me gusta mucho poder crear soluciones y resolver problemas, siempre estoy intentando aprender algo nuevo, o perfeccionar mis habilidades.</h3>
 
-- Contacto: **santisevilla.9@gmail.com**
+- Contacto: 
+**santisevilla.9@gmail.com** 
+**(https://www.linkedin.com/in/santiago-sevilla/)**
 
 <p align="left">
 </p>
