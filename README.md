@@ -1,6 +1,11 @@
-<h1>Hola 👋</h1>
-<h2>Mi nombre es Santiago Sevilla</h2>
-<h3>Soy una persona apasionada por el mundo de la programación, me gusta mucho poder crear soluciones y resolver problemas, siempre estoy intentando aprender algo nuevo, o perfeccionar mis habilidades.</h3>
+<h2>👋!Hola! Soy Santiago</h2>
+<h3>Durante mi etapa de estudiante pude desarrollar habilidades participando en proyectos grupales. Al mismo tiempo realicé cursos desarrollando mi lógica de programación y tecnologías nuevas.
+
+Me apasiona la programación y considero que tiene un gran impacto e influencia en nuestras vidas. 
+
+Mi objetivo es desarrollar mi carrera formando parte de una empresa que me permita aplicar todo lo aprendido hasta ahora y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados posibles.
+
+Si quieres saber más de mí, puedes conectar conmigo por Linkedin o mandarme un correo.</h3>
 
 - Contacto: </br>
 **santisevilla.9@gmail.com** </br>
