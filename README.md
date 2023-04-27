@@ -1,4 +1,4 @@
-<h2>👋!Hola! Soy Santiago</h2>
+<h2>👋¡Hola! Soy Santiago</h2>
 <h3>Durante mi etapa de estudiante pude desarrollar habilidades participando en proyectos grupales. Al mismo tiempo realicé cursos desarrollando mi lógica de programación y tecnologías nuevas.
 
 Me apasiona la programación y considero que tiene un gran impacto e influencia en nuestras vidas. 
