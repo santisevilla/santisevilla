@@ -8,6 +8,7 @@ Mi objetivo es desarrollar mi carrera formando parte de una empresa que me permi
 Si quieres saber más de mí, puedes conectar conmigo por Linkedin o mandarme un correo.</h3>
 
 - Contacto: </br>
+<a href="https://www.linkedin.com/in/santiago-sevilla/">hola</a>
 **santisevilla.9@gmail.com** </br>
 **https://www.linkedin.com/in/santiago-sevilla/**
 
