@@ -10,7 +10,7 @@ Si quieres saber más de mí, puedes conectar conmigo por Linkedin o mandarme un
 - Contacto: </br>
 **santisevilla.9@gmail.com** </br>
 <a href="https://www.linkedin.com/in/santiago-sevilla/" target="_blank" rel="noreferrer">
-<a href="https://www.linkedin.com/in/santiago-sevilla/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/santiago-sevilla/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
 
 <p align="left">
 </p>
