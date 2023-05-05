@@ -2,26 +2,26 @@
 
 ![fondo](https://user-images.githubusercontent.com/63272703/236352852-ea4b60aa-088b-4fb5-82c0-c5e10d9c7f77.jpg)
 
-##### Hi, I'm Santiago:
+##### Hola, soy Santiago:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- Si querés saber más de mí, puedes conectar conmigo por Linkedin o mandarme un correo
+- 🎓 Graduado en Tecnicatura Superior en Desarrollo de Software.
+- :test_tube: Durante mi etapa de estudiante pude desarrollar habilidades participando en proyectos grupales. Al mismo tiempo realicé cursos desarrollando mi lógica de programación y tecnologías nuevas.
+- 🪐 Mi objetivo es desarrollar mi carrera formando parte de una empresa que me permita aplicar todo lo aprendido hasta ahora y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados posibles.
+- :speech_balloon: Si querés saber más de mí, puedes conectar conmigo por Linkedin o mandarme un correo!
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santisevilla.9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-sevilla/)
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![santisevilla.com](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
-##### Languages I use
+##### Lenguajes
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
