@@ -10,7 +10,6 @@
 - :speech_balloon: Si querés saber más de mí, puedes conectar conmigo por Linkedin o mandarme un correo!
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santisevilla.9@gmail.com)
-<a href="https://www.linkedin.com/in/santiago-sevilla/" target="blank">![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-sevilla/)
 [![santisevilla.com](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
