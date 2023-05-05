@@ -32,7 +32,10 @@
 
 ##### Tecnologías en las que estoy trabajando
 
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
