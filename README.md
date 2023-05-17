@@ -4,10 +4,8 @@
 
 ##### Hola, soy Santiago:
 
-lñlkñlñklñklñ
-
 - 🎓 Tecnicatura Superior en Desarrollo de Software.
-- :test_tube: Durante mi etapa de estudiante pude desarrollar habilidades participando en proyectos grupales. Al mismo tiempo realicé cursos desarrollando mi lógica de programación y tecnologías nuevas.
+- :test_tube: Durante mi etapa de estudiante pude desarrollar habilidades participando en proyectos grupales. Al mismo tiempo realicé cursos desarrollando mi lógica de programación y tecnologías nuevas. Estoy en búsqueda de mi primer empleo.
 - 🪐 Mi objetivo es desarrollar mi carrera formando parte de una empresa que me permita aplicar todo lo aprendido hasta ahora y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados posibles.
 - :speech_balloon: Si querés saber más de mí, puedes conectar conmigo por Linkedin o mandarme un correo!
 
